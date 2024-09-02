@@ -14,6 +14,6 @@
 # MySQL Installation
 - 1. Download MySQL Installer from the official website
 - 2. Custom
-- 3. MySQL sERVER, MySQL Workbench, and MySQL Shell
+- 3. MySQL server, MySQL Workbench, and MySQL Shell
 - 4. To secure your MySQL installation with a super-secret password
-- 5. Launch MySQL Workbecnh and connect to yout MySQL Server
+- 5. Launch MySQL Workbench and connect to your MySQL Server
